@@ -7,11 +7,11 @@ The bot plays Moorhuhn by searching red pixels and using the k-Means-Algorithm t
 
 # How it works
 1. Create a screenshot of the game
-![Screen](https://github.com/Lucas749/Help-Files/blob/master/Moorhuhn%20Screen.JPG)
+![Screen](https://github.com/Lucas749/Moorhuhn-Autoclicker/blob/master/README%20Pictures/Moorhuhn%20Screen.JPG)
 
 2. Determine red pixels of the birds
-![Pixel Detection](https://github.com/Lucas749/Help-Files/blob/master/Pixel%20Detection.png)
+![Pixel Detection](https://github.com/Lucas749/Moorhuhn-Autoclicker/blob/master/README%20Pictures/Pixel%20Detection.png)
 
 3. Cluster pixels with KMeans to determine shooting positions
-![KMeans Pixel](https://github.com/Lucas749/Help-Files/blob/master/Pixel%20KMeans.png)
+![KMeans Pixel](https://github.com/Lucas749/Moorhuhn-Autoclicker/blob/master/README%20Pictures/Pixel%20KMeans.png)
 
