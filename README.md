@@ -1,7 +1,7 @@
 # Moorhuhn Bot
 The bot plays Moorhuhn by searching red pixels and using the k-Means-Algorithm to determine the positions of the birds. Parameters of kMeans, the pixel detection, and the actual playing algorithm were optimized in over 950 games. For score recognition, a neural network is used that was trained on hand labeled scores and timer values (top left in the game - labeling could be automized this way). However, accuracy is quite low due to insufficient training data.
 
-A video of the bot in action is linked in the picture below.
+A video of the bot in action is linked to the picture below.
 
 [![YT Link](https://github.com/Lucas749/Moorhuhn-Autoclicker/blob/master/README%20Pictures/Youtube%20Link.JPG)](https://www.youtube.com/watch?v=HsXdwFAUP_k)
 
