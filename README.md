@@ -8,6 +8,8 @@ A video of the bot in action is linked to the picture below.
 # Files
 1. Moorhuhn_Bot.py - Bot that plays Moorhuhn
 2. Score_Classifier.py - Generation of score samples and fitting of the neural network and SVM
+3. Fitted Models folder - Contains the fitted neural network and SVM
+4. Samples Examples folder - Contains a few score samples that were used to train the classifiers
 
 # How it works
 1. Create a screenshot of the game
