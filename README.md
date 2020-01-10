@@ -5,4 +5,4 @@ Project includes the following files:
 1. Moorhuhn_Bot.py - Bot that plays Moorhuhn
 2. Score_Classifier.py - Generation of score samples and fitting of the neural network
 
-![Test Image 1](3DTest.png)
+![Test Image 1](https://github.com/Lucas749/Moorhuhn-Autoclicker/blob/master/Test.JPG)
